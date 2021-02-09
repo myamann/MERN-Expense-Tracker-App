@@ -30,5 +30,5 @@ To run this project, install it locally using npm:
  npm start
 ```
 
- ![Image](https://raw.githubusercontent.com/myamann/MERN-Expense-Tracker-App/master/ss/1.png?token=ALFYGQV7DROE5ZHLP67STDLAEJDLW)
- ![Image](https://raw.githubusercontent.com/myamann/MERN-Expense-Tracker-App/master/ss/2.png?token=ALFYGQVDDKSFYZ2BO7AEKRLAEJDNA)
+ ![Image](https://raw.githubusercontent.com/myamann/MERN-Expense-Tracker-App/master/ss/1.png?token=ALFYGQXJ7ZNL3SZQHMJXCPDAEJFV6)
+ ![Image](https://raw.githubusercontent.com/myamann/MERN-Expense-Tracker-App/master/ss/2.png?token=ALFYGQSXHS7BIFO4PQ5U47LAEJFXM)
