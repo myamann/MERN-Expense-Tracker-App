@@ -13,7 +13,7 @@ Project is created with:
 To run this project, install it locally using npm:
 
 ```
-# Run front and backend
+ # Run frontend and backend
  npm run dev
  
  # Backend only
